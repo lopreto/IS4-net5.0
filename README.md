@@ -1,4 +1,4 @@
-# Identity Server to .Net 5.0
+# Identity Server to .Net 5.0 (In progress)
 An example how to use and configurate the IdentityServer in .Net 5.0
 
 ### Pre-requisites 📋
