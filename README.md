@@ -15,4 +15,4 @@ An example how to use and configurate the IdentityServer in .Net 5.0
 * [Identity Server](https://duendesoftware.com/) - The framework to use and configurate the identity server.
 * [.Net 5](https://dotnet.microsoft.com/download/dotnet/5.0) - Microsoft Framework
 * [EntityFramework Core](https://docs.microsoft.com/es-es/ef/core/) - Microsoft Entity Framework to access database.
-* [Auto Mapper] (https://automapper.org/) - Framework to map one object to another object.
+* [Auto Mapper](https://automapper.org/) - Framework to map one object to another object.
